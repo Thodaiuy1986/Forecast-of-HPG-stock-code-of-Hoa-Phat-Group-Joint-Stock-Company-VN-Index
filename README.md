@@ -1,5 +1,4 @@
 # Forecast of HPG stock code of Hoa Phat Group Joint Stock Company VN-Index
-Project: Forecasting HPG stock code of Hoa Phat Group Joint Stock Company VN-Index
 
 Input: Write an API using the JSON library in Python to craw the stock data for HPG from the Cafef.vn website.
 
